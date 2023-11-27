@@ -20,13 +20,7 @@ I have all required installs on the files. "npm i" should also just suffice
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+<img width="1466" alt="note take" src="https://github.com/HenegarCodes/Note-Taking-App/assets/78831747/1b8febff-f6bd-42fa-bcba-dba66ecd759d">
 
 ## Credits
 
